@@ -1,0 +1,15 @@
+{
+  "name": "job-draft-comparenies",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "laiso",
+  "license": "MIT",
+  "dependencies": {
+    "sleep": "^3.0.1",
+    "x-ray": "^2.2.0"
+  }
+}
